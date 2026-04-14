@@ -18,6 +18,9 @@
   <i>"Giống như loài chim cánh cụt có thể thích nghi và bơi lội mạnh mẽ trong dòng nước lạnh giá,<br>
   hãy cứ trang bị cho mình một <b>'lớp mỡ' kiên cường</b>, rồi thong dong bơi lội giữa dòng đời mà chẳng ngại ngần chi."</i>
 </p>
+<p align="center">
+  <i>"Genau wie Pinguine, die sich anpassen und kraftvoll durch eiskalte Gewässer schwimmen, solltest auch du dich mit einer <b>'Fettschicht'aus Resilienz</b>  wappnen. So kannst du gelassen durch den Strom des Lebens gleiten, ohne jemals zu zögern"</i>
+</p>
 
 ## 💻 Tech Stack
 
