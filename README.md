@@ -1,32 +1,15 @@
-<table align="center">
-<tr>
-<td align="center">
-
-<h1>Hi 👋 I'm Ty Ty</h1>
-<p><strong>Software Engineering</strong> · Backend · AI · Data</p>
-
-<p>
-<a href="https://facebook.com/hellotyty">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:Trabuityty1603@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="./public/hallo.png" width="250" />
 </p>
-
-</td>
-
-<td>
-<img
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh1MTdod3cwdHdpcjNmemFqbzNwNzBucWI2NTB0eTFoOW12aWRpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XUZfB6IRFRvEcyEKng/giphy.gif"
-width="250"
-alt="coding animation"
-/>
-</td>
-</tr>
-</table>
-
+<p align="center">
+  <a href="https://facebook.com/hellotyty">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:Trabuityty1603@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
@@ -84,15 +67,16 @@ alt="coding animation"
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=TyTy7023&show_icons=true&theme=dark"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TyTy7023&layout=compact&theme=dark"
-    height="160"
-  />
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TyTy7023&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TyTy7023&layout=compact&theme=tokyonight" height="180em" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TyTy7023&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
