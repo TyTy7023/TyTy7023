@@ -26,7 +26,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,python,spring,nodejs,react,mysql,mongodb,pytorch,tensorflow,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,spring,nodejs,react,mysql,mongodb,pytorch,tensorflow,git,github,githubactions" />
 </p>
 
 <p align="center">
@@ -53,4 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TyTy7023&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
