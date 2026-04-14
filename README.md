@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/hallo.png" width="250" />
+  <img src="./public/hallo.png" width="750"  height="300" />
 </p>
 <p align="center">
   <a href="https://facebook.com/hellotyty">
